@@ -1,0 +1,85 @@
+header {
+    width: 30%;
+    height: auto;
+    border: 5px dashed hotpink;
+    margin: 1em auto;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+body {
+    background: midnightblue;
+}
+
+div {
+    background: green;
+    border: 5px solid purple;
+    margin: 1em auto;
+    text-align: center;
+    padding: 10px;
+
+}
+
+main {
+    margin: 30px;
+}
+
+.head {
+    background: peachpuff;
+    padding: 50px 100px 50px 100px;
+    margin: 20px 400px 20px 400px;
+}
+
+.torso {
+    background: peachpuff;
+    padding: 100px 100px 100px 100px;
+    margin: 20px 400px 20px 400px;
+}
+
+.lArm {
+    background: peachpuff;
+    float: left;
+    margin: 0px 0px 0px 130px;
+}
+
+.rArm {
+    background: peachpuff;
+    float: right;
+    margin: 0px 130px 0px 0px;
+}
+
+.lLeg {
+    background: peachpuff;
+    float: left;
+    margin: 0px 0px 0px 250px;
+    height: 200px;
+    width: 50px;
+}
+
+.rLeg {
+    background: peachpuff;
+    float: right;
+    margin: 0px 250px 0px 0px;
+    height: 200px;
+    width: 50px;
+
+
+}
+
+input {
+    margin: 100px 10px 0px 10px;
+    width: 70px;
+    background: white;
+    height: 15px;
+
+}
+
+footer {
+    margin: 10em 5em;
+    text-align: center;
+    border: 5px dashed hotpink;
+    color: white;
+}
